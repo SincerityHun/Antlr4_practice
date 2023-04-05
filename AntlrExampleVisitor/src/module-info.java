@@ -6,4 +6,5 @@
  *
  */
 module AntlrExampleVisitor {
+	requires antlr;
 }

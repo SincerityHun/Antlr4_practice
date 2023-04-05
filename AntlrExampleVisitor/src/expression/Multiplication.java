@@ -11,7 +11,7 @@ public class Multiplication extends Expression {
 	
 	@Override
 	public String toString() {
-		return left.toString() + "*" + right.toString();
+		return left.toString() + " * " + right.toString();
 	}
 	
 }

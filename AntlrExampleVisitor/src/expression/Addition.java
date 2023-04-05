@@ -11,7 +11,7 @@ public class Addition extends Expression {
 	
 	@Override
 	public String toString() {
-		return left.toString() + "+" + right.toString();
+		return left.toString() + " + " + right.toString();
 	}
 	
 
